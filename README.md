@@ -1,3 +1,8 @@
+
+# GOLEM PROJECT WAS MOVED TO: https://github.com/golemfactory/golem
+# THIS REPOSTIORY IS NO LONGER USED
+
+
 # Golem
 
 The aim of the Golem project is to create a global prosumer market for computing power, in which
