@@ -30,6 +30,7 @@ Please be sure that you understand the risk before installing the software.
 ## License
 
 Golem is open source and distributed under [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.html).
+Work of foundation carried until end of November 2016 (this repository only) is available also under [BSD-3-Clause license]( https://opensource.org/licenses/BSD-3-Clause). Please note that however you are free to use this code under BSD3, [further developments]( https://github.com/golemfactory/golem) are distributed under GPL3 only. 
 
 ## Acknowledgements
 
